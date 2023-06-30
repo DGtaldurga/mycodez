@@ -1,0 +1,6 @@
+Val_1 = input("What's your name ?")
+print ("Hi",Val_1)
+input("how can i assist you ?")
+print ("Sure,i will help you on learn coding in python")
+input("can i start with basic concepts ?")
+print ("Cool then, let's start coding in python")
